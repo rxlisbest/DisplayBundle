@@ -1,0 +1,3 @@
+_admin:
+    pattern:  /admin/{name}
+    defaults: { _controller: OneMonthsDisplayBundle:Default:index }
